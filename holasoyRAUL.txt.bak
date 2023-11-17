@@ -1,2 +1,7 @@
 Hola, soy Raúl
 ¿Cómo te va la vida?
+<<<<<<< HEAD
+Cambio realizado en local
+=======
+Este cambio ha sidio realziado desde la web de github
+>>>>>>> 3dc99792838c169fb14dce70a0dce8d4ba3a1337
